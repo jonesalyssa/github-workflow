@@ -1,0 +1,72 @@
+h1 {
+  background-color: rgb(224, 18, 83);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(224, 18, 83);
+  background-color: rgb(229, 129, 161);
+  text-align: center;
+  padding-top: 0%;
+  padding-block: ;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(224, 18, 83);
+  text-align: center;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+ol {
+  color: rgb(109, 16, 16);
+  font-size: medium;
+  text-align: left;
+}
+
+li {
+  color: rgb(109, 16, 16);
+  font-size: medium;
+  text-align: left;
+}
+
+.divSections {
+  display: flex;
+  background-color: ;
+  width: 800%;
+  column-gap: 2%;
+  row-gap: 2000%
+  padding: 20%;
+  margin: 5px 5px 5px 5px;
+
+}
+
+.divSections2 {
+  display: flex;
+  background-color: ;
+  width: 800%;
+  column-gap: 2%;
+  row-gap: 2000%
+  padding: 20%;
+  margin: 5px 5px 5px 5px;
+
+}
+
+section {
+  background-color: rgb(250, 191, 209);
+  height: 50%;
+  width: 70%
+  column-gap: 100%;
+  row-gap: 100%;
+  border-radius: 2%;
+  padding: 5px;
+  align-self::end;
+}
+
+img {
+  border: 20%;
+  border-color: black;
+  padding: -10% 0% 20% 0%
+  height: 150px;
+}
