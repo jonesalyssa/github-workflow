@@ -1,0 +1,54 @@
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+H1 {
+  color: maroon;
+  text-align: center;
+}
+
+H2 {
+  color: maroon;
+  text-align: center;
+}
+
+H3 {
+  text-align: center;
+}
+
+.navdiv {
+  text-decoration: none;
+  background-color: rgb(230, 230, 250);
+  align-items: center;
+  padding: 5px;
+}
+
+li {
+  list-style: none;
+  color: black;
+  text-decoration: none;
+}
+
+button {
+  background-color: rgb(128, 0, 0);
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(184, 53, 73);
+}
+a:active {
+  text-decoration: none;
+  color: black;
+}
