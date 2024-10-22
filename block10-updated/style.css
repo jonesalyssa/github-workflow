@@ -1,0 +1,77 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+form {
+  height: 30%;
+  text-align: center;
+  background: beige;
+  padding: 20px;
+}
+
+button {
+  background: pink;
+  color: black;
+  margin: 40px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+
+div {
+  height: 100px;
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+.beige {
+  background: beige;
+  height: 100px;
+  width: 100px;
+  
+}
+.pink {
+  background: pink;
+  height: 100px;
+  width: 100px;
+  z-index: 0;
+}
+
+.king {
+  height: 20% px;
+  margin-top: -350px;
+  z-index: 2;
+  
+}
+ 
+div:nth-child(1) {
+  background:aqua
+}
+
+div:nth-child(4) {
+  background:aqua
+}
+
+
+
+@media (max-width: 768px) {
+  .pink {
+    background: palevioletred;
+    margin: 0 auto !important;
+    padding: 0 !important;
+  }
+  .beige {
+    background: sandybrown;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+
+
+background-image url asd.com
+background-repeat
+background size
+// look at yt to find. it's from after class
+
